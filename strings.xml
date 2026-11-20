@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rexa Agent</string>
+    <string name="accessibility_description">Rexa Agent reads visible interface text and can click matching visible controls when enabled by the user.</string>
+</resources>
